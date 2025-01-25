@@ -44,6 +44,7 @@ header{
   font-family: 'Zrnic'; 
   color: var(--main-color);
   font-size: 3rem;
+
 }
 #menu{
   display: flex;  
@@ -54,6 +55,7 @@ header{
     font-weight: 600;
     margin: 0 40px;
     transition: all ease .40s;
+    padding: 40;
 }
 #menu a:hover{
     color: var(--main-color);
